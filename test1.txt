@@ -1,10 +1,1 @@
- Volume in drive F is New Volume
- Volume Serial Number is BA64-224D
-
- Directory of F:\Project
-
-07-05-2017  14:27    <DIR>          .
-07-05-2017  14:27    <DIR>          ..
-07-05-2017  14:27                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  34,597,298,176 bytes free
+hello
